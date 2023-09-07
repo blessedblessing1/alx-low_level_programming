@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
- * main  W-riting a program that print a line with the put function
- *
- * Return: 0 
+ * main -Writting a program that prints with the puy function
+ * Return: 0 indicated successful execution
  */
 int main(void)
 {
