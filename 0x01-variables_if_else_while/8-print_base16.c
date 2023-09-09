@@ -9,7 +9,7 @@ int main(void)
 	int y;
 
 	z = 'a';
-	y = '0';
+	y = 0;
 
 	while
 		(y <= 9)
@@ -21,6 +21,7 @@ int main(void)
 		(z <= 'f')
 		{
 			putchar(z);
+			z++;
 		}
 	putchar('\n');
 	return (0);
